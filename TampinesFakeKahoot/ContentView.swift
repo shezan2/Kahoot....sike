@@ -40,6 +40,16 @@ struct ContentView: View {
                         .padding()
                 }
                 
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
                 HStack {
                     
                     let question = questions[currentQuestion]
